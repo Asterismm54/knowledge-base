@@ -11,6 +11,8 @@ coverY: 0
 
 The Knowledge Base is an effort by [SCESoc](https://www.scesoc.ca), the Systems and Computer Engineering Society in Carleton University. It is a repository of knowledge made by and for the peers at Carleton University.
 
+*Awesome! Is there a place where I can mention BSDCan at Carleton? or on this Github?*
+
 Every year, several talented students with various experiences and knowledge get through the Systems and Computer Engineering Programs. This platform will act as a hub of knowledge for students to mutually share their learnings. This can include:
 
 * Wikis on different topics/technologies
